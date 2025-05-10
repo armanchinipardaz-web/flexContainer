@@ -38,7 +38,7 @@ An engaging yet simple project
 
 ![Image](https://github.com/user-attachments/assets/f0bedc71-83f2-48e1-8c77-57bbe1a1cce0)
 
-- [Demo Project](https://armanchinipardaz-web.github.io/armanchinipardaz-web/)
+- [Demo Project](https://armanchinipardaz-web.github.io/flexContainer/)
 
 - Developed by armanchinipardaz
 
